@@ -1,5 +1,6 @@
 name: Retype Action for GitHub Pages
 author: Object.NET, Inc.
+on: push
 description: |-
   Publishes a Retype website to a branch, directory, or creates a pull request.
 inputs:
