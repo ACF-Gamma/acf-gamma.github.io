@@ -8,7 +8,7 @@ favicon: static/logo.png
 editor:
   enabled: true
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Server Invite
+  link: https://discord.gg/sPmWfcJa3n
 footer:
   copyright: "&copy; Copyright ACF-Gamma, {{ year }}. All rights reserved."
